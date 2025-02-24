@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.4.6
+
+### Patch Changes
+
+-   82f1f79: fix: make AWS Bedrock authentication predictable
+-   9b66eac: Add translation to CODE_OF_CONDUCT, CONTRIBUTING and README to Arabic ar-sa.
+-   45e1f58: A new MCP Marketplace display setting has been added to VSCode settings. (It is defaulted to "true")
+
 ## [3.4.0]
 
 -   Introducing MCP Marketplace! You can now discover and install the best MCP servers right from within the extension, with new servers added regularly
